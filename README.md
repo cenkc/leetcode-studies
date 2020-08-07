@@ -10,8 +10,8 @@
 
 
 
-
-### warm-up
+## warm-up
+###
 * [Maximum Sum SubArray Of A Fixed Size K](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W01MaxSumSubArrOfAFixedSizeK.java)
    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W01MaxSumSubArrOfAFixedSizeK.java), [Test Class](https://github.com/cenkc/leetcode-studies/blob/master/src/test/java/com/cenkc/leetcode/study/warmup/W01MaxSumSubArrOfAFixedSizeKTest.java)
 * [Smallest SubArray With Given Sum](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W02SmallestSubArrWithGivenSum.java)
