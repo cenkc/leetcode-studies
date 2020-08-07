@@ -1,4 +1,4 @@
-# leetcode-studies
+# leetcode.com study
 
 ###
 * [Two Sum](https://leetcode.com/problems/two-sum/) (Difficulty: *Easy*)
@@ -11,6 +11,14 @@
 
 
 
-
-
+### warm-up
+* [Maximum Sum SubArray Of A Fixed Size K](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W01MaxSumSubArrOfAFixedSizeK.java)
+   * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W01MaxSumSubArrOfAFixedSizeK.java), [Test Class](https://github.com/cenkc/leetcode-studies/blob/master/src/test/java/com/cenkc/leetcode/study/warmup/W01MaxSumSubArrOfAFixedSizeKTest.java)
+* [Smallest SubArray With Given Sum](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W02SmallestSubArrWithGivenSum.java)
+   * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W02SmallestSubArrWithGivenSum.java), [Test Class](https://github.com/cenkc/leetcode-studies/blob/master/src/test/java/com/cenkc/leetcode/study/warmup/W02SmallestSubArrWithGivenSumTest.java)
+* [Longest Substring Length With K Distinct Characters](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W03LongestSubstrLenWithKDistinctChars.java)
+   * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W03LongestSubstrLenWithKDistinctChars.java), [Test Class](https://github.com/cenkc/leetcode-studies/blob/master/src/test/java/com/cenkc/leetcode/study/warmup/W03LongestSubstrLenWithKDistinctCharsTest.java)
+   
+   
+   
 [project wiki homepage](https://github.com/cenkc/leetcode-studies/wiki)
