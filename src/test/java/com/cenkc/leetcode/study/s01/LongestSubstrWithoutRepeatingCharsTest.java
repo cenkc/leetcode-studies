@@ -1,5 +1,6 @@
 package com.cenkc.leetcode.study.s01;
 
+import com.cenkc.leetcode.study.all.LongestSubstrWithoutRepeatingChars;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package com.cenkc.leetcode.study.s01;
+package com.cenkc.leetcode.study.all;
 
 import java.util.Arrays;
 import java.util.HashMap;
