@@ -5,6 +5,7 @@ import java.util.Map;
 
 /**
  * Longest substring length with K distinct characters
+ * https://www.youtube.com/watch?v=MK-NZ4hN7rs&t=2000s
  * Related Topics : Sliding Window
  *
  * created by cenkc on 4/24/2020
