@@ -74,6 +74,14 @@
 * [Longest Substring Length With K Distinct Characters](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W03LongestSubstrLenWithKDistinctChars.java)
    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W03LongestSubstrLenWithKDistinctChars.java), [Test Class](https://github.com/cenkc/leetcode-studies/blob/master/src/test/java/com/cenkc/leetcode/study/warmup/W03LongestSubstrLenWithKDistinctCharsTest.java)
    
+
+
+## [Interview Questions](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
+### [Amazon Online Assessment Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
+* [Treasure Island](https://leetcode.com/discuss/interview-question/347457)
+    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/TreasureIsland.java)
+    * Related Topics: [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/)
+
    
    
 [project wiki homepage](https://github.com/cenkc/leetcode-studies/wiki)
