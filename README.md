@@ -43,14 +43,12 @@
 * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) (Difficulty: *Medium*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/NumberOfIslands.java)
     * Related Topics: [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/), [*Union Find*](https://leetcode.com/tag/union-find/)
-    
-
-
 * [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) (Difficulty: *Medium*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/PrisonCellsAfterNDays.java)
     * Related Topics: [*Hash Table*](https://leetcode.com/tag/hash-table/)
-
-
+* [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) (Difficulty: *Easy*)
+    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/RangeSumOfBST.java)
+    * Related Topics: [*Tree*](https://leetcode.com/tag/tree/), [*Recursion*](https://leetcode.com/tag/recursion/)
 
 
 
