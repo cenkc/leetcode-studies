@@ -49,9 +49,9 @@
 * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) (Difficulty: *Easy*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/RangeSumOfBST.java)
     * Related Topics: [*Tree*](https://leetcode.com/tag/tree/), [*Recursion*](https://leetcode.com/tag/recursion/)
-
-
-
+* [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) (Difficulty: *Easy*)
+    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/SearchInABinarySearchTree.java)
+    * Related Topics: [*Tree*](https://leetcode.com/tag/tree/)
 
 
 
