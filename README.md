@@ -1,5 +1,6 @@
-# [leetcode.com](https://leetcode.com/) [Algorithms problems](https://leetcode.com/problemset/algorithms/)
+# [leetcode.com](https://leetcode.com/)
 
+## [Problem Set : **Algorithms**](https://leetcode.com/problemset/algorithms/)
 ###
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Difficulty: *Medium*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/BinaryTreeInorderTraversal.java)
@@ -55,14 +56,19 @@
 * [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) (Difficulty: *Medium*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/SurroundedRegions.java)
     * Related Topics: [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/), [*Union Find*](https://leetcode.com/tag/union-find/)
-
-
-
-
+* [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (Difficulty: *Medium*)
+    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/ValidateBinarySearchTree.java)
+    * Related Topics: [*Tree*](https://leetcode.com/tag/tree/), [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/)
 * [1. Two Sum](https://leetcode.com/problems/two-sum/) (Difficulty: *Easy*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/TwoSum.java), [Test Class](https://github.com/cenkc/leetcode-studies/blob/master/src/test/java/com/cenkc/leetcode/study/all/TwoSumTest.java)
     * Related Topics: [*Array*](https://leetcode.com/tag/array/), [*Hash Table*](https://leetcode.com/tag/hash-table/)
 
+
+## [Interview Questions](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
+### [Amazon Online Assessment Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
+* [Treasure Island](https://leetcode.com/discuss/interview-question/347457)
+    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/TreasureIsland.java), [**Solution v2**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/TreasureIslandCenk.java)
+    * Related Topics: [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/)
 
 
 ## warm-up
@@ -73,15 +79,6 @@
    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W02SmallestSubArrWithGivenSum.java), [Test Class](https://github.com/cenkc/leetcode-studies/blob/master/src/test/java/com/cenkc/leetcode/study/warmup/W02SmallestSubArrWithGivenSumTest.java)
 * [Longest Substring Length With K Distinct Characters](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W03LongestSubstrLenWithKDistinctChars.java)
    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/warmup/W03LongestSubstrLenWithKDistinctChars.java), [Test Class](https://github.com/cenkc/leetcode-studies/blob/master/src/test/java/com/cenkc/leetcode/study/warmup/W03LongestSubstrLenWithKDistinctCharsTest.java)
-   
-
-
-## [Interview Questions](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
-### [Amazon Online Assessment Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
-* [Treasure Island](https://leetcode.com/discuss/interview-question/347457)
-    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/TreasureIsland.java), [**Solution v2**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/TreasureIslandCenk.java)
-    * Related Topics: [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/)
-
    
    
 [project wiki homepage](https://github.com/cenkc/leetcode-studies/wiki)
