@@ -28,6 +28,9 @@
 * [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) (Difficulty: *Medium*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/InsertIntoABinarySearchTree.java)
     * Related Topics: [*Tree*](https://leetcode.com/tag/tree/)
+* [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (Difficulty: *Medium*)
+    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/KthSmallestElementInABST.java)
+    * Related Topics: [*Binary Search*](https://leetcode.com/tag/binary-search/), [*Tree*](https://leetcode.com/tag/tree/)
 
 
 
