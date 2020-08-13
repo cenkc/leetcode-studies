@@ -79,7 +79,7 @@
 ## [Interview Questions](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
 ### [Amazon Online Assessment Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
 * [Treasure Island](https://leetcode.com/discuss/interview-question/347457)
-    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/TreasureIsland.java)
+    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/TreasureIsland.java), [**Solution v2**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/TreasureIslandCenk.java)
     * Related Topics: [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/)
 
    
