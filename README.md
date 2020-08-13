@@ -40,6 +40,10 @@
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) (Difficulty: *Easy*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/MinimumDepthOfBinaryTree.java)
     * Related Topics: [*Tree*](https://leetcode.com/tag/tree/), [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/) 
+* [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) (Difficulty: *Medium*)
+    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/NumberOfIslands.java)
+    * Related Topics: [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/), [*Union Find*](https://leetcode.com/tag/union-find/)
+    
 
 
 
