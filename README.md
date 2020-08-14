@@ -1,5 +1,14 @@
 # [leetcode.com/cenkc](https://leetcode.com/cenkc/) ![ViewCount](https://views.whatilearened.today/views/github/cenkc/leetcode-studies.svg)
 
+| Problem Tags  |
+|---|
+|[Binary Search](https://github.com/cenkc/leetcode-studies/wiki/Binary-Search)   |
+|[Breadth First Search (BFS)](https://github.com/cenkc/leetcode-studies/wiki/Breadth-First-Search-(BFS)) _(Both BSTs and Graphs)_   |
+|[Depth First Search (DFS)](https://github.com/cenkc/leetcode-studies/wiki/Depth-First-Search-(DFS)) _(Both BSTs and Graphs)_   |
+|[Graph](https://github.com/cenkc/leetcode-studies/wiki/Graph)   |
+|[Sliding Window](https://github.com/cenkc/leetcode-studies/wiki/Sliding-Window)   |
+|[Tree](https://github.com/cenkc/leetcode-studies/wiki/Tree)   |
+
 ## [Problem Set : **Algorithms**](https://leetcode.com/problemset/algorithms/)
 ###
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Difficulty: *Medium*)
