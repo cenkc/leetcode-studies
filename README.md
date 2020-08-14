@@ -1,4 +1,4 @@
-# [leetcode.com/cenkc](https://leetcode.com/cenkc/)
+# [leetcode.com/cenkc](https://leetcode.com/cenkc/) ![ViewCount](https://views.whatilearened.today/views/github/cenkc/leetcode-studies.svg)
 
 ## [Problem Set : **Algorithms**](https://leetcode.com/problemset/algorithms/)
 ###
