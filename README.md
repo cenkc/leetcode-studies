@@ -74,6 +74,9 @@
 * [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) (Difficulty: *Easy*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/BinaryTreeLevelOrderTraversal_II.java)
     * Related Topics: [*Tree*](https://leetcode.com/tag/tree/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/)
+* [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) (Difficulty: *Easy*)
+    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/SymmetricTree.java)
+    * Related Topics: [*Tree*](https://leetcode.com/tag/tree/), [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/)
 
 
 
