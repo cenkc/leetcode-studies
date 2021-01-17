@@ -6,6 +6,7 @@
 |[Breadth First Search (BFS)](https://github.com/cenkc/leetcode-studies/wiki/Breadth-First-Search-(BFS)) _(Both BSTs and Graphs)_   |
 |[Depth First Search (DFS)](https://github.com/cenkc/leetcode-studies/wiki/Depth-First-Search-(DFS)) _(Both BSTs and Graphs)_   |
 |[Graph](https://github.com/cenkc/leetcode-studies/wiki/Graph)   |
+|[Greedy](https://github.com/cenkc/leetcode-studies/wiki/Greedy)   |
 |[Sliding Window](https://github.com/cenkc/leetcode-studies/wiki/Sliding-Window)   |
 |[Tree](https://github.com/cenkc/leetcode-studies/wiki/Tree)   |
 
@@ -17,6 +18,9 @@
 * [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (Difficulty: *Medium*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/BinaryTreeLevelOrderTraversal.java)
     * Related Topics: [*Tree*](https://leetcode.com/tag/tree/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/) 
+* [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) (Difficulty: *Easy*)
+    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/BestTimeToBuyAndSellStock2.java)
+    * Related Topics: [*Array*](https://leetcode.com/tag/array/), [*Greedy*](https://leetcode.com/tag/greedy/)
 * [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) (Difficulty: *Hard*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/BinaryTreePostorderTraversal.java)
     * Related Topics: [*Stack*](https://leetcode.com/tag/stack/), [*Tree*](https://leetcode.com/tag/tree/)
