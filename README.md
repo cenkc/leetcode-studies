@@ -5,6 +5,7 @@
 |[Binary Search](https://github.com/cenkc/leetcode-studies/wiki/Binary-Search)   |
 |[Breadth First Search (BFS)](https://github.com/cenkc/leetcode-studies/wiki/Breadth-First-Search-(BFS)) _(Both BSTs and Graphs)_   |
 |[Depth First Search (DFS)](https://github.com/cenkc/leetcode-studies/wiki/Depth-First-Search-(DFS)) _(Both BSTs and Graphs)_   |
+|[Dynamic Programming](https://github.com/cenkc/leetcode-studies/wiki/Dynamic-Programming)   |
 |[Graph](https://github.com/cenkc/leetcode-studies/wiki/Graph)   |
 |[Greedy](https://github.com/cenkc/leetcode-studies/wiki/Greedy)   |
 |[Sliding Window](https://github.com/cenkc/leetcode-studies/wiki/Sliding-Window)   |
