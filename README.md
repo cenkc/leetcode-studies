@@ -88,6 +88,9 @@
 * [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) (Difficulty: *Easy*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/SplitAStringInBalancedStrings.java)
     * Related Topics: [*String*](https://leetcode.com/tag/string/), [*Greedy*](https://leetcode.com/tag/greedy/)
+* [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) (Difficulty: *Easy*)
+    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/MaxUnitsOnATruck.java)
+    * Related Topics: [*Greedy*](https://leetcode.com/tag/greedy/), [*Sort*](https://leetcode.com/tag/sort/)
 
 
 ## [Interview Questions](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
