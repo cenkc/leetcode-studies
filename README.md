@@ -10,6 +10,7 @@
 |[Greedy](https://github.com/cenkc/leetcode-studies/wiki/Greedy)   |
 |[Sliding Window](https://github.com/cenkc/leetcode-studies/wiki/Sliding-Window)   |
 |[Tree](https://github.com/cenkc/leetcode-studies/wiki/Tree)   |
+|_[Common Pitfalls & Notes](https://github.com/cenkc/leetcode-studies/wiki/Notes)_   |
 
 ## [Problem Set : **Algorithms**](https://leetcode.com/problemset/algorithms/)
 ###
