@@ -5,12 +5,16 @@
 |[Binary Search](https://github.com/cenkc/leetcode-studies/wiki/Binary-Search)   |
 |[Breadth First Search (BFS)](https://github.com/cenkc/leetcode-studies/wiki/Breadth-First-Search-(BFS)) _(Both BSTs and Graphs)_   |
 |[Depth First Search (DFS)](https://github.com/cenkc/leetcode-studies/wiki/Depth-First-Search-(DFS)) _(Both BSTs and Graphs)_   |
+|[Divide and Conquer](https://github.com/cenkc/leetcode-studies/wiki/Divide-and-Conquer)   |
 |[Dynamic Programming](https://github.com/cenkc/leetcode-studies/wiki/Dynamic-Programming)   |
 |[Graph](https://github.com/cenkc/leetcode-studies/wiki/Graph)   |
 |[Greedy](https://github.com/cenkc/leetcode-studies/wiki/Greedy)   |
 |[Sliding Window](https://github.com/cenkc/leetcode-studies/wiki/Sliding-Window)   |
 |[Tree](https://github.com/cenkc/leetcode-studies/wiki/Tree)   |
-|_[Common Pitfalls & Notes](https://github.com/cenkc/leetcode-studies/wiki/Notes)_   |
+
+| _[Common Pitfalls & Notes](https://github.com/cenkc/leetcode-studies/wiki/Notes)_  |
+|---|
+|_[Integer.MAX_VALUE and Integer.MIN_VALUE usages](https://github.com/cenkc/leetcode-studies/wiki/Notes#integermax_value-and-integermin_value-usages)_   |
 
 ## [Problem Set : **Algorithms**](https://leetcode.com/problemset/algorithms/)
 ###
@@ -20,6 +24,9 @@
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Difficulty: *Medium*) 
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/LongestSubstrWithoutRepeatingChars.java), [Test Class](https://github.com/cenkc/leetcode-studies/blob/master/src/test/java/com/cenkc/leetcode/study/all/LongestSubstrWithoutRepeatingCharsTest.java)
     * Related Topics: [*Sliding Window*](https://leetcode.com/tag/sliding-window/), [*Hash Table*](https://leetcode.com/tag/hash-table/), [*Two Pointers*](https://leetcode.com/tag/two-pointers/), [*String*](https://leetcode.com/tag/string/)
+* [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Difficulty: *Easy*)
+    * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/MaximumSubarray.java)
+    * Related Topics: [*Array*](https://leetcode.com/tag/array/), [*Divide and Conquer*](https://leetcode.com/tag/divide-and-conquer/), [*Dynamic Programming*](https://leetcode.com/tag/dynamic-programming/)
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Difficulty: *Medium*)
     * [**Solution**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/BinaryTreeInorderTraversal.java)
     * Related Topics: [*Hash Table*](https://leetcode.com/tag/hash-table/), [*Stack*](https://leetcode.com/tag/stack/), [*Tree*](https://leetcode.com/tag/tree/)
